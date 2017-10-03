@@ -1,9 +1,9 @@
 # dnsmasq
 
-[![Build Status](https://github.com/SuzukazeAoran/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang/dnsmasq)
-[![language](https://github.com/SuzukazeAoran/SVG/blob/master/language-c-blue.svg)](https://github.com/nanqinlang/dnsmasq)
-[![language](https://github.com/SuzukazeAoran/SVG/blob/master/language-shell-blue.svg)](https://github.com/nanqinlang/dnsmasq)
-[![author](https://github.com/SuzukazeAoran/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang/dnsmasq)
+[![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang/dnsmasq)
+[![language](https://github.com/nanqinlang/SVG/blob/master/language-c-blue.svg)](https://github.com/nanqinlang/dnsmasq)
+[![language](https://github.com/nanqinlang/SVG/blob/master/language-shell-blue.svg)](https://github.com/nanqinlang/dnsmasq)
+[![author](https://github.com/nanqinlang/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang/dnsmasq)
 
 ## Usage
 run
